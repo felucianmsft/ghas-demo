@@ -21,5 +21,3 @@ If you want to learn more about creating good readme files then refer the follow
 
 DevOps PAT:
 jfohgokchfan334fup7iauwvozxpedz2pjvos67bxnsnbtqwyoaa
-
-jfohgokchfan334fup7iauwvozxpedz2pjvos67bxnsnbtqwyoaa
