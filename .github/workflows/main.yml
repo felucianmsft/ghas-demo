@@ -18,7 +18,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-
+    
+    #### GHAS SECTION#####
     # Initializes the CodeQL tools for scanning.
     - name: Initialize CodeQL
       uses: github/codeql-action/init@v2
@@ -35,6 +36,7 @@ jobs:
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
 
+    #### Defender4DevOps SECTION#####
     # Perform Defender for DevOps scanning
     - name: Run Microsoft Security DevOps
       uses: microsoft/security-devops-action@v1
